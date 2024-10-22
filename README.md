@@ -1,8 +1,8 @@
 # Juego de Ahorcado en JAVA
 
-Hicimos un juego de ahorcado en JAVA donde uno debe ir colocando letra a letra en la consola y tiene cierta cantidad de intentos. Si logra completar toda la palabra uno gana, caso contrario, se acaben los intentos uno pierde.
+Hice un juego de ahorcado en JAVA donde un usuario debe ir colocando letra a letra en la consola y tiene cierta cantidad de intentos. Si logra completar toda la palabra el usuario gana, caso contrario, se acaben los intentos uno pierde.
 
-## ¿Qué herramientas utilizamos?
+## ¿Qué herramientas utilice para realizarlo?
 
 1. Clase Scanner
 2. Declaraciones y asignaciones
